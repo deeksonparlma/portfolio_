@@ -158,7 +158,7 @@ font-size: 50px;
 .imageProject1{
   position: absolute;
   height: 400px;
-  opacity: 0.1;
+  opacity: 0.2;
   width: 250px;
   background-image: url("../img/mpesa.png");
   background-repeat: no-repeat;
@@ -175,7 +175,7 @@ font-size: 50px;
 .imageProject3{
   position: absolute;
   height: 400px;
-  opacity: 0.1;
+  opacity: 0.2;
   width: 250px;
   background-image: url("../img/mshauri.png");
   background-repeat: no-repeat;
@@ -192,7 +192,7 @@ font-size: 50px;
 .imageProject2{
   position: absolute;
   height: 400px;
-  opacity: 0.1;
+  opacity: 0.2;
   width: 250px;
   background-image: url("../img/onlinegym.png");
   background-repeat: no-repeat;
